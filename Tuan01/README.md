@@ -11,7 +11,3 @@
   - tính bình phương, độ dài, giá trị lớn nhất, nhỏ nhất, trung bình
   - tính phương sai và độ lệch chuẩn
 - Mục tiêu: xây nền tảng lập trình và xử lý dữ liệu cho các tuần sau.
-
-Nếu muốn, mình có thể viết tiếp theo dạng:
-- 3-5 dòng ngắn cho báo cáo
-- hoặc 1 đoạn văn hoàn chỉnh theo kiểu nộp bài.
